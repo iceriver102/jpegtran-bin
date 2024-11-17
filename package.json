@@ -52,11 +52,11 @@
   ],
   "dependencies": {
     "bin-build": "^3.0.0",
-    "bin-wrapper": "^4.1.0"
+    "bin-wrapper": "git+https://github.com/iceriver102/bin-wrapper.git"
   },
   "devDependencies": {
     "ava": "^4.2.0",
-    "bin-check": "git+https://github.com/iceriver102/bin-wrapper.git",
+    "bin-check": "^4.1.0",
     "compare-size": "^3.0.0",
     "execa": "^6.1.0",
     "tempy": "^3.0.0",
