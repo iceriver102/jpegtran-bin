@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "ava": "^3.8.0",
-    "bin-check": "^4.0.1",
+    "bin-check": "git+https://github.com/iceriver102/bin-check.git",
     "compare-size": "^3.0.0",
     "execa": "^4.0.0",
     "tempy": "^0.5.0",
